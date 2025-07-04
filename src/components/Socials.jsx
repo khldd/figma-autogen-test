@@ -1,0 +1,1 @@
+<div className='bg-[#fadcd9] p-6'><div className='flex gap-4'>{/* LINKS */}</div></div>
