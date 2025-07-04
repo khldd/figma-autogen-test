@@ -1,0 +1,1 @@
+<div className='bg-[#f8afa6] p-6'><p className='text-black'>Contact me</p><div className='flex gap-4'>{/* TOP BAR */}</div></div>
