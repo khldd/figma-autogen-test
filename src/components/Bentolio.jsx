@@ -1,0 +1,1 @@
+<div className='min-h-screen bg-[#f9f1f0]'><Header /><Slogan /><Portrait /><About /><Workk /><Contact /><Socials /></div>
