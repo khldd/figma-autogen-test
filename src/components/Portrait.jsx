@@ -1,0 +1,1 @@
+<div className='relative aspect-square'><div className='absolute inset-0 bg-gray-200'>{/* IMAGE */}</div></div>
