@@ -1,0 +1,1 @@
+<div className='bg-[#fadcd9] p-6'><p className='text-black mb-4'>Julia Huang is an innovative AI artist, renowned for blending cutting-edge technology with creative expression. Based in LA, she crafts unique digital art experiences accessible globally.</p><div className='w-12 h-12 bg-white rounded-full'>{/* CIRCLE ICON */}</div></div>
