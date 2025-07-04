@@ -1,0 +1,1 @@
+<header className='bg-[#fadcd9] p-6'><div className='flex justify-between'>{/* NAV */}</div></header>
