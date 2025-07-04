@@ -1,0 +1,1 @@
+<div className='bg-[#fadcd9] p-6'><h1 className='text-black text-2xl font-bold'>Artist Redefining Architecture with AI-Driven Design</h1><div>{/* FLOWER ICON */}</div></div>
